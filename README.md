@@ -3,7 +3,7 @@
 
 This IBM SPSS Modeler plots data containing latitude and longitude on an interactive bubble map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
 More precisely, this node generates an HTML file which can be saved to a specific directory and/or opened in the default browser on execution. This html page is an interactive map, that is to say you can move, zoom in and out, etc. 
-Note that you can obtain longitude and latitude from an address using a Geocoding Node.
+Note that you can obtain longitude and latitude from an address using a Geocoding Node
 
 
 ![Map](https://github.com/IBMPredictiveAnalytics/Plot-Bubbles-Map/blob/master/Screenshot/Illustration6.png?raw=true)
